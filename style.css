@@ -7,6 +7,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: hsl(30, 38%, 92%);
 }
 
 .container {
@@ -14,9 +15,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: hsl(30, 38%, 92%);
-    height: 100vh;
     font-family: 'Montserrat';
+    height: 100vh;
 
 }
 
